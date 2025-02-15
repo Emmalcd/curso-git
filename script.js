@@ -1,0 +1,1 @@
+console.log("Hola, esto viene de un archivo JS");
