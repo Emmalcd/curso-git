@@ -1,0 +1,38 @@
+* 23f215c Agregando los colores RGB
+* f100664 Agregando las estaciones del año con sus fechas de inicio
+*   656a626 Manual merge, branches main & hmtl
+|\  
+| * 5f3fec3 Test html manual merge
+* | 1b0f8ba Test manual merge main
+* | 8950676 Merge branch 'html'
+|\| 
+| * 6a17f66 Second test manual merge
+* | 57caf34 Merge branch 'html'
+|\| 
+| * 73c36c3 Agregando contenido para probar manual merge
+* | 30dc048 Merge branch 'html'
+|\| 
+| * 949bbe2 Eliminando body html
+* | 1a6432b Merge branch 'html'
+|\| 
+| * 37670c5 Agregando un segundo parrafo
+* | 093c44a Merge branch 'html'
+|\| 
+| * ee39320 Agregando el archivo js al documento idex.html
+* | e74b1ad Agregando el archivo css al index.html
+* |   9cc6be2 Merge branch 'js'
+|\ \  
+| * | 61a949b Agregando archivo JS
+* | |   ebcb303 Merge branch 'html'
+|\ \ \  
+| | |/  
+| |/|   
+| * | 13e2f21 Agregando index
+| |/  
+* / 2efac3e Agregando archivo css
+|/  
+* 2d546a0 Ignorando archivos .exe
+* ddb62d9 Create LICENSE.txt
+* 2769b29 Agregando más información al README
+* 3385fcd Agregando prueba al archivo README
+* 562ce29 First commit

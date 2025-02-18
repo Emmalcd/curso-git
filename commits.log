@@ -1,0 +1,169 @@
+commit 6efde9e68f49e6208f2f887f304f5d934dddaab1
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Tue Feb 18 14:47:55 2025 -0600
+
+    Agregando gráfica de commits
+
+commit 23f215cc03e25759e3e284d58e5b76da6f3505fe
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Tue Feb 18 13:11:06 2025 -0600
+
+    Agregando los colores RGB
+
+commit f1006647238846d221e94af3241b8553cd4ea61e
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Tue Feb 18 09:38:57 2025 -0600
+
+    Agregando las estaciones del año con sus fechas de inicio
+
+commit 656a626acf2ff243d0b3030db9b1fd7c691148e0
+Merge: 1b0f8ba 5f3fec3
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Mon Feb 17 23:49:26 2025 -0600
+
+    Manual merge, branches main & hmtl
+
+commit 5f3fec38db86a427f901273659e00e8b1a718990
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Mon Feb 17 23:41:09 2025 -0600
+
+    Test html manual merge
+
+commit 1b0f8baa97be94f27e90bee2e7004a35b30515b7
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Mon Feb 17 23:40:00 2025 -0600
+
+    Test manual merge main
+
+commit 89506764013d4a85c49256e5dd1aa4ef6ee70f65
+Merge: 57caf34 6a17f66
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Mon Feb 17 23:35:54 2025 -0600
+
+    Merge branch 'html'
+
+commit 6a17f66c029b5fecfce09f9b419952a3024c9a1f
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Mon Feb 17 23:35:22 2025 -0600
+
+    Second test manual merge
+
+commit 57caf34868ded4d86438346dc581c0755c638c16
+Merge: 30dc048 73c36c3
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Mon Feb 17 23:33:13 2025 -0600
+
+    Merge branch 'html'
+
+commit 73c36c35e466e7c79e7dc7e2ce0a6a97d220cd5b
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Mon Feb 17 23:32:27 2025 -0600
+
+    Agregando contenido para probar manual merge
+
+commit 30dc0485c6a6214609234d628fef88c3e0c86b08
+Merge: 1a6432b 949bbe2
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 14:42:45 2025 -0600
+
+    Merge branch 'html'
+
+commit 949bbe2b8e1cb70d3db02a93eef70fe4fbfc926a
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 14:42:30 2025 -0600
+
+    Eliminando body html
+
+commit 1a6432bd172eeb5efae305e1d94b03bfe5e345fa
+Merge: 093c44a 37670c5
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 14:40:53 2025 -0600
+
+    Merge branch 'html'
+
+commit 37670c5bc32d1f85d164d9b1f2b4e77cc206cd5d
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 14:40:09 2025 -0600
+
+    Agregando un segundo parrafo
+
+commit 093c44a171edb9cc4cf05f441af4a2a21c95e5e3
+Merge: e74b1ad ee39320
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 14:37:32 2025 -0600
+
+    Merge branch 'html'
+
+commit ee39320668b1bfb233657fa12389656bf5aa99e7
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 14:36:39 2025 -0600
+
+    Agregando el archivo js al documento idex.html
+
+commit e74b1ad8f099d1c30957da1e17214855cf736657
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 14:35:20 2025 -0600
+
+    Agregando el archivo css al index.html
+
+commit 9cc6be29cf0f462085bafeecd9413442ddbfa0a7
+Merge: ebcb303 61a949b
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 14:07:19 2025 -0600
+
+    Merge branch 'js'
+
+commit ebcb30375cbb0712a4dcaa143db3ae9d91127333
+Merge: 2efac3e 13e2f21
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 14:07:04 2025 -0600
+
+    Merge branch 'html'
+
+commit 61a949b0dca16d06ea4b85bb2fbc9e3587e2e0c3
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 12:58:15 2025 -0600
+
+    Agregando archivo JS
+
+commit 2efac3e56c8b5faf633e129b1ccb499455cdfefc
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 10:39:32 2025 -0600
+
+    Agregando archivo css
+
+commit 13e2f2129b8df965bb7e6671e7cddeead83dc549
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sat Feb 15 10:36:35 2025 -0600
+
+    Agregando index
+
+commit 2d546a0cd6b59c139cf4f7ee11a7aa990d31ae0c
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Thu Feb 13 12:24:44 2025 -0600
+
+    Ignorando archivos .exe
+
+commit ddb62d945f29296439d762b68dca3d86f3831593
+Author: Emmalcd <123346924+Emmalcd@users.noreply.github.com>
+Date:   Thu Feb 13 11:19:55 2025 -0600
+
+    Create LICENSE.txt
+
+commit 2769b2980b59b8ce16b65ea3fef582e1383abbc1
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Thu Feb 13 11:13:08 2025 -0600
+
+    Agregando más información al README
+
+commit 3385fcd4cd8f07c87515ee47a0da171a1dc7a6c8
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Wed Feb 12 22:11:33 2025 -0600
+
+    Agregando prueba al archivo README
+
+commit 562ce29860e2f0387973f6b33d6c64df7fb7b3d1
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Wed Feb 12 22:07:29 2025 -0600
+
+    First commit
